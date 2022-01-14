@@ -6,14 +6,6 @@ Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
 Dichiariamo chi ha vinto.*/
 console.log('JS ok');
 
-
-
-// function askTrueFalse(yes, no){
-    //     let userChoice = prompt(`Scegli ${yes} o ${no}`).trim();
-    //     return userChoice;
-    // } 
-    // askTrueFalse('pari', 'dispari');
-    
 // ! Validazione Pari o Dispari
     
 let userPick;
